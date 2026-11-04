@@ -1,0 +1,65 @@
+Position,Company,Applied on,Response date,Status,Interview date,Contact person,Contact details,Source,Work format,Location,Salary from,Salary to,Currency,Period,Job link,Notes
+Operations Analyst,Mapleton Consulting,2026-08-19,,Applied,,Oliver D.,oliver.d@example.com,Referral,Remote,Remote (EU),,,,,https://example.com/jobs/40196,
+Financial Data Analyst,Summit Travel,2026-08-20,2026-08-21,Technical interview,2026-11-06,Martin D.,martin.d@example.com,Recruiter,Hybrid,Prague,57900.0,,CZK,Monthly,https://example.com/jobs/84166,SQL live coding and dashboard review
+Marketing Analyst,Fernway Foods,2026-08-23,2026-08-30,Offer,2026-09-03,Daniel S.,daniel.s@example.com,Referral,Hybrid,Prague,,,,,https://example.com/jobs/88889,"Verbal offer received, written offer pending"
+SQL Analyst,Zenith Manufacturing,2026-08-23,,No response,,Eva R.,eva.r@example.com,Referral,On-site,Prague,,,,,https://example.com/jobs/66767,Closed after 5+ weeks of silence
+Power BI Developer,Oakridge Pharma,2026-08-23,,Applied,,,,LinkedIn,Hybrid,Prague,63600.0,69300.0,CZK,Monthly,https://example.com/jobs/60729,
+Reporting Analyst,Helix Health Data,2026-08-24,,Applied,,,,Jobs.cz,Hybrid,Prague,55800.0,67200.0,CZK,Monthly,https://example.com/jobs/11105,
+Data Governance Analyst,Redwood Payments,2026-08-24,2026-08-30,Rejected,,Oliver M.,oliver.m@example.com,Company website,Hybrid,Barcelona,,,,,https://example.com/jobs/80824,More years of experience required
+Financial Data Analyst,Larkspur Software,2026-08-27,2026-09-02,Rejected,2026-09-09,Klara Z.,klara.z@example.com,LinkedIn,Remote,Remote (EU),,,,,https://example.com/jobs/80833,Rejected after final interview
+Product Analyst,Fernway Foods,2026-08-28,2026-09-15,Rejected,2026-09-19,Klara D.,klara.d@example.com,LinkedIn,Hybrid,Warsaw,,,,,https://example.com/jobs/71291,Rejected after test assignment
+Junior Data Analyst,Aurora Telecom,2026-08-28,2026-09-01,No response,,Marta V.,marta.v@example.com,LinkedIn,Hybrid,Prague,,,,,https://example.com/jobs/86863,No follow-up after the screening call
+Data Analyst,Cobalt Mobility,2026-08-31,2026-09-06,No response,,Sofia H.,sofia.h@example.com,LinkedIn,Hybrid,London,,,,,https://example.com/jobs/95221,No follow-up after the screening call
+Data Governance Analyst,Aurora Telecom,2026-08-31,,No response,,,,Company website,Remote,Remote (EU),3500.0,3600.0,EUR,Monthly,https://example.com/jobs/87754,Closed after 5+ weeks of silence
+SQL Analyst,Meridian Freight,2026-09-02,2026-09-10,Rejected,,Lena B.,lena.b@example.com,Jobs.cz,Remote,Remote (US company),63000.0,,USD,Yearly,https://example.com/jobs/79531,More years of experience required
+BI Analyst,Redwood Payments,2026-09-04,2026-09-09,On hold,,Daniel H.,daniel.h@example.com,Company website,Remote,Remote (EU),3200.0,3500.0,EUR,Monthly,https://example.com/jobs/73968,Hiring paused until next quarter
+Data Governance Analyst,Mapleton Consulting,2026-09-07,,No response,,,,Other,Remote,Remote (EU),3400.0,4000.0,EUR,Monthly,https://example.com/jobs/40736,Closed after 5+ weeks of silence
+Reporting Analyst,Zenith Manufacturing,2026-09-08,,No response,,,,LinkedIn,On-site,Berlin,,,,,https://example.com/jobs/41782,Closed after 5+ weeks of silence
+Power BI Developer,Kestrel Fintech,2026-09-09,2026-10-01,Rejected,,Marta V.,marta.v@example.com,Recruiter,Hybrid,Brno,58500.0,64100.0,CZK,Monthly,https://example.com/jobs/68101,Rejected after CV review
+Operations Analyst,Summit Travel,2026-09-10,2026-09-13,Rejected,,Anna B.,anna.b@example.com,LinkedIn,Remote,Remote (EU),,,,,https://example.com/jobs/29819,More years of experience required
+SQL Analyst,Helix Health Data,2026-09-12,,Applied,,,,Jobs.cz,Hybrid,Brno,51900.0,54100.0,CZK,Monthly,https://example.com/jobs/59760,
+Financial Data Analyst,Northwind Analytics,2026-09-12,2026-09-20,Rejected,,Oliver V.,oliver.v@example.com,LinkedIn,Hybrid,Warsaw,,,,,https://example.com/jobs/53667,More years of experience required
+Data Analyst,Tidewater Commerce,2026-09-19,2026-09-22,On hold,,Jakub R.,jakub.r@example.com,Recruiter,Hybrid,Brno,47500.0,,CZK,Monthly,https://example.com/jobs/54350,Hiring paused until next quarter
+Data Governance Analyst,Oakridge Pharma,2026-09-19,,No response,,Oliver B.,oliver.b@example.com,Recruiter,On-site,Berlin,49000.0,58000.0,EUR,Yearly,https://example.com/jobs/27054,Closed after 5+ weeks of silence
+Reporting Analyst,Orbisoft,2026-09-22,,Applied,,Petra L.,petra.l@example.com,Recruiter,Remote,Remote (US company),65000.0,66000.0,USD,Yearly,https://example.com/jobs/70603,
+Marketing Analyst,Lumen Energy,2026-09-22,2026-09-28,Rejected,2026-10-02,Oliver S.,oliver.s@example.com,Other,Hybrid,Brno,,,,,https://example.com/jobs/39218,Rejected after final interview
+BI Analyst,Oakridge Pharma,2026-09-24,,Applied,,,,Company website,Remote,Remote (EU),,,,,https://example.com/jobs/75294,
+Junior Data Analyst,Tidewater Commerce,2026-09-26,2026-09-27,Rejected,,Lena V.,lena.v@example.com,Referral,Hybrid,Prague,,,,,https://example.com/jobs/73094,Rejected after CV review
+Financial Data Analyst,Zenith Manufacturing,2026-09-28,,Applied,,,,Jobs.cz,Hybrid,London,42000.0,51000.0,GBP,Yearly,https://example.com/jobs/61110,
+Reporting Analyst,Quarry Labs,2026-09-29,2026-09-30,Rejected,,Eva R.,eva.r@example.com,Referral,Hybrid,Berlin,,,,,https://example.com/jobs/49733,More years of experience required
+Marketing Analyst,Summit Travel,2026-09-30,2026-10-02,Rejected,,Klara B.,klara.b@example.com,Other,Hybrid,Berlin,,,,,https://example.com/jobs/11938,Template rejection e-mail
+SQL Analyst,Helix Health Data,2026-09-30,,Withdrawn,,,,LinkedIn,Hybrid,Prague,,,,,https://example.com/jobs/39698,Withdrew: relocation required
+Data Quality Analyst,Northwind Analytics,2026-10-04,,Applied,,,,Company website,Hybrid,Warsaw,9900.0,14900.0,PLN,Monthly,https://example.com/jobs/65340,
+Marketing Analyst,Meridian Freight,2026-10-04,2026-10-10,No response,,Oliver B.,oliver.b@example.com,Referral,On-site,Berlin,,,,,https://example.com/jobs/63795,No follow-up after the screening call
+Operations Analyst,Granite Insurance,2026-10-05,,Applied,,,,Company website,Hybrid,Warsaw,,,,,https://example.com/jobs/39735,
+Financial Data Analyst,Pinecrest Media,2026-10-08,,Applied,,,,Company website,Hybrid,Warsaw,,,,,https://example.com/jobs/43153,
+Marketing Analyst,Orbisoft,2026-10-08,2026-10-13,Rejected,,Marta K.,marta.k@example.com,LinkedIn,Hybrid,Warsaw,12400.0,,PLN,Monthly,https://example.com/jobs/53523,More years of experience required
+Reporting Analyst,Redwood Payments,2026-10-09,,Withdrawn,,,,Other,On-site,Berlin,,,,,https://example.com/jobs/43747,Withdrew: relocation required
+Operations Analyst,Oakridge Pharma,2026-10-10,2026-10-11,Test assignment,2026-10-16,Oliver T.,oliver.t@example.com,Other,Remote,Remote (EU),3000.0,4000.0,EUR,Monthly,https://example.com/jobs/20319,"Take-home: SQL + Power BI case, 3 days"
+Power BI Developer,Tidewater Commerce,2026-10-10,2026-10-19,Technical interview,2026-10-25,Sofia Z.,sofia.z@example.com,Recruiter,Hybrid,London,43000.0,,GBP,Yearly,https://example.com/jobs/26265,SQL live coding and dashboard review
+Marketing Analyst,Fernway Foods,2026-10-16,,Applied,,,,Jobs.cz,Hybrid,Prague,57400.0,62400.0,CZK,Monthly,https://example.com/jobs/79984,
+Data Analyst,Redwood Payments,2026-10-17,,Applied,,,,Company website,Hybrid,Prague,,,,,https://example.com/jobs/69065,
+SQL Analyst,Kestrel Fintech,2026-10-17,2026-10-18,Test assignment,2026-10-24,Marta H.,marta.h@example.com,LinkedIn,Remote,Remote (EU),,,,,https://example.com/jobs/23250,"Take-home: SQL + Power BI case, 3 days"
+Data Governance Analyst,Northwind Analytics,2026-10-17,2026-10-18,Final interview,2026-10-23,Pavel S.,pavel.s@example.com,Jobs.cz,Hybrid,Brno,54200.0,68600.0,CZK,Monthly,https://example.com/jobs/74704,Meeting with the hiring manager
+Data Analyst,Zenith Manufacturing,2026-10-18,,Applied,,,,Jobs.cz,Hybrid,Brno,46200.0,54400.0,CZK,Monthly,https://example.com/jobs/12948,
+Power BI Developer,Helix Health Data,2026-10-20,2026-11-02,HR screening,,Lukas K.,lukas.k@example.com,Recruiter,On-site,Prague,65500.0,,CZK,Monthly,https://example.com/jobs/18536,Intro call with recruiter scheduled
+SQL Analyst,Northwind Analytics,2026-10-21,,Applied,,Oliver V.,oliver.v@example.com,Recruiter,Remote,Remote (EU),3500.0,4000.0,EUR,Monthly,https://example.com/jobs/73802,
+Marketing Analyst,Larkspur Software,2026-10-22,,Applied,,,,LinkedIn,Remote,Remote (EU),3300.0,,EUR,Monthly,https://example.com/jobs/98605,
+Data Quality Analyst,Granite Insurance,2026-10-22,,Applied,,,,Company website,Hybrid,Berlin,52000.0,55000.0,EUR,Yearly,https://example.com/jobs/64447,
+Financial Data Analyst,Mapleton Consulting,2026-10-23,,Applied,,,,Company website,Hybrid,Brno,49600.0,,CZK,Monthly,https://example.com/jobs/67260,
+Marketing Analyst,Tidewater Commerce,2026-10-25,,Applied,,,,Company website,Hybrid,London,40000.0,49000.0,GBP,Yearly,https://example.com/jobs/21635,
+Junior Data Analyst,Cobalt Mobility,2026-10-26,,Withdrawn,,,,LinkedIn,Remote,Remote (EU),3400.0,3700.0,EUR,Monthly,https://example.com/jobs/92645,Withdrew: relocation required
+Junior Data Analyst,Aurora Telecom,2026-10-26,2026-10-28,Rejected,,Petra K.,petra.k@example.com,LinkedIn,Hybrid,Barcelona,,,,,https://example.com/jobs/27751,Position filled internally
+Operations Analyst,Kestrel Fintech,2026-10-27,,Applied,,Eva V.,eva.v@example.com,Recruiter,Hybrid,Prague,50100.0,77900.0,CZK,Monthly,https://example.com/jobs/14209,
+Operations Analyst,Oakridge Pharma,2026-10-28,,Applied,,,,Company website,On-site,Berlin,56000.0,,EUR,Yearly,https://example.com/jobs/35833,
+Reporting Analyst,Meridian Freight,2026-10-29,2026-11-02,HR screening,,Eva D.,eva.d@example.com,LinkedIn,On-site,Prague,64700.0,81000.0,CZK,Monthly,https://example.com/jobs/25736,Intro call with recruiter scheduled
+Data Quality Analyst,Meridian Freight,2026-10-30,,Applied,,,,Other,Hybrid,Warsaw,12000.0,14300.0,PLN,Monthly,https://example.com/jobs/33862,
+Power BI Developer,Helix Health Data,2026-10-30,,Applied,,,,LinkedIn,Hybrid,Berlin,49000.0,61000.0,EUR,Yearly,https://example.com/jobs/58611,
+Data Quality Analyst,Kestrel Fintech,2026-10-31,,Applied,,,,Jobs.cz,Hybrid,Prague,50400.0,78600.0,CZK,Monthly,https://example.com/jobs/74909,
+Data Governance Analyst,Meridian Freight,2026-10-31,2026-11-01,Rejected,,Petra H.,petra.h@example.com,LinkedIn,Remote,Remote (EU),2900.0,3100.0,EUR,Monthly,https://example.com/jobs/34330,Rejected after CV review
+Marketing Analyst,Fernway Foods,2026-10-31,,Applied,,,,Jobs.cz,On-site,Prague,52800.0,80100.0,CZK,Monthly,https://example.com/jobs/38411,
+Reporting Analyst,Orbisoft,2026-11-01,2026-11-02,Rejected,,Klara Z.,klara.z@example.com,Jobs.cz,On-site,Brno,58500.0,73600.0,CZK,Monthly,https://example.com/jobs/47070,Rejected after CV review
+Data Governance Analyst,Bluepeak Logistics,2026-11-01,2026-11-02,Rejected,,Daniel H.,daniel.h@example.com,Jobs.cz,Remote,Remote (US company),56000.0,66000.0,USD,Yearly,https://example.com/jobs/24592,Rejected after CV review
+Business Data Analyst,Brightpath Education,2026-11-01,2026-11-02,Rejected,,Lukas N.,lukas.n@example.com,Recruiter,Hybrid,Prague,52100.0,77300.0,CZK,Monthly,https://example.com/jobs/77858,Rejected after CV review
+Power BI Developer,Tidewater Commerce,2026-11-02,,Applied,,Petra K.,petra.k@example.com,Referral,Remote,Remote (EU),,,,,https://example.com/jobs/50130,
+Data Analyst,Lumen Energy,2026-11-02,,Applied,,,,LinkedIn,Remote,Remote (US company),60000.0,,USD,Yearly,https://example.com/jobs/80754,
